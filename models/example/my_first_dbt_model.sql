@@ -1,5 +1,0 @@
-
-
-select SOURCE_TYPE, SOURCECONNECTION
-from TEST
-

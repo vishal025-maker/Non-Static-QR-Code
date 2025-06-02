@@ -1,0 +1,5 @@
+
+
+select JOB_ID, FULL_TIME_REMOTE, HIRING_PERSON, JOB_DETAILS, ALUMNI
+from kaggle
+
